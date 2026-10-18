@@ -1,0 +1,6 @@
+{
+  "name": "RESLICER: Zero Resurgence",
+  "description": "High-speed 2D cyber action platformer inspired by Mega Man Zero featuring dashes, wall slides, charged buster shots, multi-slash saber combos, Cyber-Elves, and epic boss battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
